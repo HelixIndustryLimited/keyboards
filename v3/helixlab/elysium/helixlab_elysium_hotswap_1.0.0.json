@@ -10,7 +10,8 @@
       {"name": "Reset Module", "title": "Reset Bluetooth Module and calibrate battery level", "shortName": "M_RESET"},
       {"name": "Get Firmware Version", "title": "Print current firmware code", "shortName": "GET_VER"},
       {"name": "Select BLE", "title": "Switch to BLE mode", "shortName": "SEL_BLE"},
-      {"name": "Select 2G4", "title": "Switch to 2G4 mode", "shortName": "SEL_2G4"}
+      {"name": "Select 2G4", "title": "Switch to 2G4 mode", "shortName": "SEL_2G4"},
+      {"name": "Unpair", "title": "Unpair Bluetooth when press, unpair Dongle peer when hold", "shortName": "UNPAIR"}
     ], 
     "matrix": { "rows": 5, "cols": 14 },
     "menus": [
